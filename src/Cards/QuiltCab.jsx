@@ -45,7 +45,7 @@ const QuiltCab = () => {
                             
                             <div className={styles.cardBottomHalf}>
                                 <h5 className={styles.ofAge}>• Must be 21 years or older to purchase •</h5>
-                                <h3>Quilt Cabernet</h3>
+                                <h3>Quilt Napa Valley Cabernet</h3>
                                 <p className={styles.description}>Description</p>
                                 <p className={styles.skuDescription}>Quilt Cabernet Sauvignon epitomizes luxury and refinement in every sip, showcasing the epitome of premium winemaking. This prestigious wine is a testament to the artistry and dedication of its makers, offering a luxurious experience that is unparalleled.</p>
                                 <div className={styles.miniBoxContainer}>
