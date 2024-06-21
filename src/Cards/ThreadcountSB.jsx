@@ -44,7 +44,7 @@ const ThreadcountSB = () => {
                             
                             <div className={styles.cardBottomHalf}>
                                 <h5 className={styles.ofAge}>• Must be 21 years or older to purchase •</h5>
-                                <h3>Thread Count Sauvignon Blanc</h3>
+                                <h3>Threadcount Sauvignon Blanc</h3>
                                 <p className={styles.description}>Description</p>
                                 <p className={styles.skuDescription}>100% pure Sauvignon Blanc, crafted from grapes grown in the most notable and warmer regions of California’s coastal hills. Each block contributes a distinct element to the blend, resulting in a layered and complex style.</p>
                                 <div className={styles.miniBoxContainer}>
