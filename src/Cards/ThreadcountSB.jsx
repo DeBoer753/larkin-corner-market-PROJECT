@@ -61,7 +61,7 @@ const ThreadcountSB = () => {
                                     <div className={styles.miniBox3}>
                                         <h4>Taste</h4>
                                         <hr />
-                                        <h5 className={styles.taste}>Bold<br />Dry<br />Soft / Acidic</h5>
+                                        <h5 className={styles.taste}>Light / Bold<br />Dry<br />Acidic</h5>
                                     </div>
                                 </div>
                             </div>
