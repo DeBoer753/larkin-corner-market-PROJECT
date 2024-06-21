@@ -7,6 +7,7 @@ import Home from '../src/Routes/Home'
 
 // CARDS
 import QuiltCab from './Cards/QuiltCab'
+import ThreadcountSB from './Cards/ThreadcountSB'
 import JLohrSevenOaks from './Cards/JLohrSevenOaks'
 import JLohrRiverstone from './Cards/JLohrRiverstone'
 import MaggioGrigio from './Cards/MaggioGrigio'
@@ -32,6 +33,7 @@ const App = () => {
           <Route index element={<Home />} />
           <Route path='/' element={<Home />}/>
           <Route path='/quilt-cab' element={<QuiltCab />}/>
+          <Route path='/threadcount-sb' element={<ThreadcountSB />}/>
           <Route path='/jlohr-seven-oaks-cabernet' element={<JLohrSevenOaks />}/>
           <Route path='/jlohr-riverstone-chardonnay' element={<JLohrRiverstone />}/>
           <Route path='/maggio-grigio' element={<MaggioGrigio />}/>

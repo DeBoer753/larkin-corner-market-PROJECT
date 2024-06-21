@@ -14,6 +14,7 @@ const Home = () => {
       <h1>Larkin Corner Market</h1>
         {/* WINE */}
         <Link to='/quilt-cab'>Quilt Cab</Link>
+        <Link to='/threadcount-sb'>Threadcount SB</Link>
         <Link to='/jlohr-seven-oaks-cabernet'>J. Lohr Seven Oaks Cabernet</Link>
         <Link to='/jlohr-riverstone-chardonnay'>J. Lohr Riverstone Chardonnay</Link>
         <Link to='/maggio-grigio'>Maggio Pinot Grigio</Link>
