@@ -5,20 +5,21 @@
   padding: 0;
 
   /* Default Wallpaper: */
+/* 
   background-image: url('/public/imgs/wallpapers/coittower_bg1.png');
   background-size: cover; 
   background-position-x: -95px; 
   background-position-y: -100px;
-  background-size: 1100px;
+  background-size: 1100px; */
 
   /* Holiday/Events Wallpaper: */
-  /* 
-  background-image: url('');
+
+  background-image: url('/public/imgs/wallpapers/fall2024.png');
   background-size: cover; 
-  background-position-x:  
-  background-position-y: 
-  background-size: 
-  */
+  background-position-x: -215px; 
+  background-position-y: -130px;
+  background-size: 800px;
+ 
 }
 @media screen and (orientation: landscape) {
   .app-container {
