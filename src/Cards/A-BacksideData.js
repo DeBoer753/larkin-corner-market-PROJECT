@@ -2,5 +2,5 @@
 export const storeName = "Larkin Corner Market"
 export const description1 = "Hello, and welcome to Larkin Corner Market! My name is Myles and I am a full time beverage sales rep / web developer hobbyist who created the card you are seeing now."
 export const description2 = "My goal is to help grow not only our portfolio of wines, beers, and spirits, but more importantly to grow the neighborhood stores we know and love here in San Francisco through a digital perspective."
-export const message = '"Happy Spring, Larkin Market friends and family, and cheers..to summer - which is right around the corner!☀️"'
+export const message = '"Summer here we go! Grab yourself a nice wine or beer by scanning the QR codes on the shelves!☀️"'
 export const rescanTheQRCodeFor = "Rescan the QR codes during holidays and public events for updated themes and messages!"
